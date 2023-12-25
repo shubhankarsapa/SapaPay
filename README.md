@@ -14,6 +14,9 @@ SapaPay is an innovative and minimalist banking web application designed for an 
 - Support for multiple currencies (Euros and US Dollars)
 - Transaction sorting capability
 
+## Demo
+Experience SapaPay in action at "https://sapa-pay.netlify.app/" Access the demo using the username 'ss' and pin '1111'.
+
 ## Technology Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Simulated using JavaScript objects to mimic database functionality.
